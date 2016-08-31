@@ -1,2 +1,3 @@
 # hello-world
-Hello World Tutorial to learn Github
+
+Hi, I'm Tomo, and I'm excited to learn all about data science!
